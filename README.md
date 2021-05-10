@@ -1,6 +1,6 @@
 # RestAPIDota
 
-![1](https://user-images.githubusercontent.com/63888291/117603220-bd01b980-b17c-11eb-89ab-65ab1473c442.jpeg) ![2](https://user-images.githubusercontent.com/63888291/117603221-bd9a5000-b17c-11eb-81db-3496b894980b.jpeg)
+![1](https://user-images.githubusercontent.com/63888291/117603220-bd01b980-b17c-11eb-89ab-65ab1473c442.jpeg)![2](https://user-images.githubusercontent.com/63888291/117603221-bd9a5000-b17c-11eb-81db-3496b894980b.jpeg)
 ![6](https://user-images.githubusercontent.com/63888291/117603202-b83d0580-b17c-11eb-8b5e-0bae5b3b01b7.jpeg)
 ![7](https://user-images.githubusercontent.com/63888291/117603203-b96e3280-b17c-11eb-95f2-0069d6fc49e7.jpeg)
 ![8](https://user-images.githubusercontent.com/63888291/117603206-ba06c900-b17c-11eb-853e-600a4fe47840.jpeg)
